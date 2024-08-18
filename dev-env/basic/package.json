@@ -16,7 +16,7 @@
   "dependencies": {
     "docz": "2.3.3-alpha.0",
     "prop-types": "^15.7.2",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react": "^16.8.6 || ^18.0.2",
+    "react-dom": "^16.8.6 || ^18.0.2"
   }
 }
